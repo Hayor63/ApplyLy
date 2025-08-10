@@ -27,8 +27,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      //   url: "https://snapnest-50w3.onrender.com",
-      url: `http://localhost:${port}`,
+      url: "https://applyly.onrender.com",
       description: "Development Server",
     },
   ],
